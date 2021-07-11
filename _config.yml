@@ -2,12 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: XU Qingxin # the website title (if blank, full name will be used instead)
+title: blank # the website title (if blank, full name will be used instead)
 first_name: Qingxin
+middle_name: 
 last_name: Xu
 email: xuqingxin@xmu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to Qingxin's personal website!
+  Welcome to XU Qingxin's personal website!
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -74,8 +75,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blogs  # your blog must have a name for it to show up in the nav bar
-blog_description: some wild thoughts about learning, life, and others
+blog_name: blogs  # your blog must have a name for it to show up in the nav bar
+blog_description: Some random thoughts about life, non-life, and life.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -83,7 +84,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname:  Qingxin # put your disqus shortname
+disqus_shortname: al-folio # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -150,8 +151,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Xu
-  first_name: [Xu, Q.]
+  last_name: Einstein
+  first_name: [Albert, A.]
 
   style: apa
   locale: en
