@@ -73,7 +73,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Qingxin # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
