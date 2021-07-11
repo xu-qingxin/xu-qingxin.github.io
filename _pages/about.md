@@ -15,7 +15,8 @@ profile:
     <p>Xiamen, Fujian 361005</p>
 
 news: true  # includes a list of news items
-social: false  # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 **Biography**
 
