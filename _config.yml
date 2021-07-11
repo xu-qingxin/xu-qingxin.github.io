@@ -10,6 +10,7 @@ email: xuqingxin@xmu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Welcome to XU Qingxin's personal website!
 footer_text: >
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 icon: 🔥 # the emoji used as the favicon
@@ -82,7 +83,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: Qingxin # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
