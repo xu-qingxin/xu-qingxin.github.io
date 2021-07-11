@@ -1,24 +1,29 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="#"> [College of Foreign Languages and Cultures, Xiamen University] (https://cflc.xmu.edu.cn){:target="\_blank"}</a>. [xuqingxin@xmu.edu.cn]
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Qingxin-Xu small.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>College English Department</p>
+    <p>College of Foreign Languages and Cultures</p>
+    <p>422 Siming South Rd, Siming District</p>
+    <p>Xiamen, Fujian 361005</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Lecturer in English in the College of Foreign Languages and Cultures at the Xiamen University, China. In 2015-2017, I was a visiting scholar at the Confucius Institute at the University of Delaware, U.S.A. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am also a PhD candidate in the School of the Arts and Media at the University of New South Wales in Sydney, Australia, supervised by [Peter R.R. White](http://prrwhite.info){:target="\_blank"}. My PhD project is about textual identity construction of disputing spouses in family dispute resolutions. I expore who the disputants are by reference to what attitudes they held towards each other and how they communicated these attitudes. My thesis is under external examination currently.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Research**
+
+My research interests include discourse analysis, digital humanities, and Chinese Sign Language linguistics. I primarily analyse people's use of language from Systemic Functional Linguistics (SFL) and the Peircean semiotics perspectives, investigating the relationship between language and identity construction. I deploy a lot of computational tools to assist my linguistic analysis. You can find out more about my [current research] (/xu-qingxin.github.io/currentresearch/), [recent publications](/xu-qingxin.github.io/publications/) and [teaching resources](/xu-qingxin.github.io/teachingresources/) below.
+
+For a comprehensive and up-to-date list of my publications, please see my profile on [research gate](https://www.researchgate.net/profile/Qingxin-Xu){:target="\_blank"}. 
+
