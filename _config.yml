@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Qingxin XU # the website title (if blank, full name will be used instead)
 first_name: Qingxin
 middle_name: 
 last_name: Xu
 email: xuqingxin@xmu.edu.cn
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to XU Qingxin's personal website!
+  Welcome to Qingxin XU's personal website!
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -50,19 +50,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: xu-qingxin # your GitHub user name
 gitlab_username: xu-qingxin # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
-medium_username: # your Medium username
-quora_username: # your Quora username
-publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
-blogger_url: # your blogger URL
-work_url: # work page URL
-keybase_username: # your keybase user name
-wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
 
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
