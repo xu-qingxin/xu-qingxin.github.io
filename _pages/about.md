@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About me
+title: about
 permalink: /
 description: <a href="#"> College of Foreign Languages and Cultures, Xiamen University</a>. email: xuqingxin@xmu.edu.cn
 
@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Lecturer in English in the [College of Foreign Languages and Cultures at the Xiamen University](https://cflc.xmu.edu.cn){:target="\_blank"}, China. In 2015-2017, I was a visiting scholar at the Confucius Institute at the University of Delaware, U.S.A. 
 
-I am also a PhD candidate in the School of the Arts and Media at the University of New South Wales in Sydney, Australia, supervised by [Peter R.R. White](http://prrwhite.info){:target="\_blank"}. My PhD project is about textual identity construction of disputing spouses in family dispute resolutions. I expore who the disputants are by reference to what attitudes they held towards each other and how they communicated these attitudes. My thesis is under external examination currently.
+I am also a PhD candidate in the School of the Arts and Media at the University of New South Wales in Sydney, Australia, supervised by [Peter R.R. White](http://prrwhite.info){:target="\_blank"}. My PhD project is about textual identity construction of disputing spouses in family dispute resolutions. I expore *who the disputants are* by reference to what attitudes they held towards each other and how they communicated these attitudes. My thesis is under external examination currently.
 
 **Research**
 
