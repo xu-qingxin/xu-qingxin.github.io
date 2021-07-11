@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#"> College of Foreign Languages and Cultures, Xiamen University</a>. email: xuqingxin@xmu.edu.cn
+description: <a href="#">College of Foreign Languages and Cultures, Xiamen University</a>. email: xuqingxin@xmu.edu.cn
 
 profile:
   align: right
