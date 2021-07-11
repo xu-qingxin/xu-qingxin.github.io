@@ -26,7 +26,6 @@ I am also a PhD candidate in the School of the Arts and Media at the University 
 
 My research interests include discourse analysis, digital humanities, and Chinese Sign Language linguistics. I primarily analyse people's use of language from Systemic Functional Linguistics (SFL) and the Peircean semiotics perspectives, investigating the relationship between language and identity construction. I deploy a lot of computational tools to assist my linguistic analysis. You can find out more about my [current research](/xu-qingxin.github.io/currentresearch/), [recent publications](/xu-qingxin.github.io/publications/) and [teaching resources](/xu-qingxin.github.io/teachingresources/) below.
 
-For a comprehensive and up-to-date list of my publications, please see my profile on . 
 
 **Get in touch**
 
