@@ -76,7 +76,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: blogs  # your blog must have a name for it to show up in the nav bar
-blog_description: Some random thoughts about life, non-life, and life.
+blog_description: Some wild thoughts about learning, life, and others.
 permalink: /blog/:year/:title/
 
 # Pagination
