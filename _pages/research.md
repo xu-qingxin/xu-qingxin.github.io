@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: research
 permalink: /research/
 description: Selected publications, conference/seminar presentations, and the fundings/awards received.
