@@ -2,7 +2,7 @@
 layout: page
 title: Argumentative disposition
 description: How disputing spouses negotiate their attitudes in family dispute resolutions?
-img: /assets/img/3.jpg
+img: https://commons.wikimedia.org/wiki/File:Macropus_rufogriseus_rufogriseus_4.jpg
 importance: 2
 category: Language and identity
 ---
