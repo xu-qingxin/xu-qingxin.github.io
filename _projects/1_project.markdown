@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Disputing spourses' discursive self-presentation
-description: Attitudal disposition for disputing spouses in family dispute resolutions
+title: Attitudinal disposition
+description: Tendencies in the disputing spouses' use of Appraisal resources in family dispute resolutions
 img: https://www.thoughtco.com/thmb/PFFty2YQeGedu9L8aQqH9cJBfEU=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Getty_conversation_analysis-SzpurB0153c-56d315e75f9b5879cc8a4bf4.jpg
 importance: 1
 category: Language and identity
@@ -22,13 +22,6 @@ There were two lines of inquiry. One attended to the nature of the attitudes the
 </div>
 <div class="caption">
     What attitudes did the disputing spouses convey in family dispute resolutions? How did they scale or dialogically frame these attitudes?
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tvstudio.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
     What are the similarities or differences in their attitudes and their framing of the attitudes? What can we know about the disputants' textually constructed identity vis-à-vis their preferences in the attitudes and their framing of the attitudes?
 </div>
 
