@@ -4,7 +4,7 @@ title: Attitudal disposition of disputing spouses in family dispute resolutions
 description: a project with a background image
 img: /assets/img/12.jpg
 importance: 1
-category: language and identity
+category: Language and identity
 ---
 
 This project was a linguistic investigation of how disputing spouses present themselves via their use of evaluative language in family dispute resolutions. Six episodes of a Chinese reality TV family dispute resolution programme were analysed. The study took a dramaturgical view of the discursive presentation of the ‘self’ and drew on insights provided by the Appraisal framework. The study characterised what is termed the ‘attitudinal dispositions’ of these spouses via tracking tendencies in the range of options for expressing positive/negative attitudes deployed by the spouses. It is proposed that differences in these attitudinal dispositions entail differences in the ‘selves’ being discursively presented, with the notion of ‘self’ having connections with ‘textual identity’ and ‘persona’. In order to group the spouses with respect to similarities and differences in their use of these resources, computational multivariate analysis tools were employed.
