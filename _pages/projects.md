@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A growing collection of my cool projects.
 nav: true
-display_categories: [language and identity, Chinese Sign Language linguistics]
+display_categories: [Language and identity, Chinese Sign Language Linguistics]
 horizontal: false
 ---
 <div class="projects">
