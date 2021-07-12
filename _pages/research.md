@@ -2,7 +2,8 @@
 layout: about
 title: research
 permalink: /research/
-
+description: Selected publications, conference/seminar presentations, and the fundings/awards received.
+nav: true
 ---
 
 <p><h3>Journal articles</h3></p>
