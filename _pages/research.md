@@ -7,9 +7,9 @@ permalink: /_pages/
 
 <p><h3>Journal articles</h3></p>
 
-<p>- 2020. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. https://doi.org/10.13140/RG.2.2.22634.34246 (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN)</p>
-<p>- 2013. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)</p>
-<p>- 2007. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*)</p>
+> - 2020. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. https://doi.org/10.13140/RG.2.2.22634.34246 (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN)
+> - 2013. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
+> - 2007. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*)
 
 
 <p><h3>Books</h3></p>
