@@ -31,6 +31,7 @@ nav: true
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. Australian Linguistics Society Annual Conference 2019, Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. The 7th New Zealand Discourse Conference, Wellington, New Zealand.
 - 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. Australian Systemic Functional Linguistics Association Annual Conference 2019, Sydney, Australia.
+- 2019, July. *Colloquium: Issues in the conceptualisation and analysis of social identity and discursive persona*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile. (With Peter R.R. White and Alexanne Don)
 - 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile.
 - 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. Australian Systemic Functional Linguistics Association Annual Conference  2018, Adelaide, Australia.
 
