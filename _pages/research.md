@@ -16,7 +16,7 @@ nav: true
 #### Books
 
 - 2015\. *英语戏剧教材（上册）*. 厦门大学出版社. (*English Drama Course (I)*. Xiamen University Press. With Jiayang SONG and Xin GUAN.)
-- 2012\. 让宝宝着迷的美国宝宝创意玩法大全 (李艳艳 & 许庆欣, Trans.). 现代出版社. (*365 Creative Games and Activities to Occupy Your 3 to 6 Year-old*. Modern Press. Trans. with Yanyan LI. )
+- 2012\. *让宝宝着迷的美国宝宝创意玩法大全*. 现代出版社. (*365 Creative Games and Activities to Occupy Your 3 to 6 Year-old*. Modern Press. Trans. with Yanyan LI. )
 - 2010\. *英语应用文*. 对外经贸大学出版社. (*The Write Way – Practical English Writing*. University of International Business and Economics Press. With Huihui HUANG and Kun YANG.)
 
 
@@ -27,12 +27,12 @@ nav: true
 
 #### Conference/seminar presentations
 
-- 2021\, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, Univ. Sydney, Sydney.
-- 2019\, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. Australian Linguistics Society Annual Conference 2019, Sydney, Australia.
-- 2019\, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. The 7th New Zealand Discourse Conference, Wellington, New Zealand.
-- 2019\, October. *The presentation of self via evaluative meaning making in family dispute mediations*. Australian Systemic Functional Linguistics Association Annual Conference 2019, Sydney, Australia.
-- 2019\, July. *Parameters of variation: The presentation of self via evaluative meaning making*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile.
-- 2018\, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. Australian Systemic Functional Linguistics Association Annual Conference  2018, Adelaide, Australia.
+- 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, Univ. Sydney, Sydney.
+- 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. Australian Linguistics Society Annual Conference 2019, Sydney, Australia.
+- 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. The 7th New Zealand Discourse Conference, Wellington, New Zealand.
+- 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. Australian Systemic Functional Linguistics Association Annual Conference 2019, Sydney, Australia.
+- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile.
+- 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. Australian Systemic Functional Linguistics Association Annual Conference  2018, Adelaide, Australia.
 
 
 #### Fundings/awards
