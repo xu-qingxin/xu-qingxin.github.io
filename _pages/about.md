@@ -5,7 +5,7 @@ permalink: /
 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>College English Department,</p>
@@ -31,7 +31,7 @@ I am also a PhD candidate in the School of the Arts and Media at the University 
 
 #### Research
 
-My research interests include discourse analysis, digital humanities, and Chinese Sign Language linguistics. I primarily analyse people's use of language from Systemic Functional Linguistics (SFL) and the Peircean semiotics perspectives, investigating the relationship between language and identity construction. I deploy a lot of computational tools to assist my linguistic analysis. You can find out more about my research [projects](/xu-qingxin.github.io/projects/), [conference/seminar presentations](/xu-qingxin.github.io/presentations/) and [outputs](/xu-qingxin.github.io/research/) in the above links.
+My research interests include discourse analysis, digital humanities, and Chinese Sign Language linguistics. I primarily analyse people's use of language from Systemic Functional Linguistics (SFL) and the Peircean semiotics perspectives, investigating the relationship between language and identity construction. I deploy a lot of computational tools to assist my linguistic analysis. You can find out more about my research in the above links.
 
 <p>  </p>
 
