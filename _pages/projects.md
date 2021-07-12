@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my cool projects.
 nav: true
 display_categories: [language and identity, Chinese Sign Language linguistics]
 horizontal: false
