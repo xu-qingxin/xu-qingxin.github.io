@@ -77,16 +77,9 @@ disqus_shortname: Qingxin # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: false
-    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
-
-news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
