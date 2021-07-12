@@ -2,12 +2,12 @@
 layout: page
 title: Sign language translation
 description: CSL/Chinese translation and political discourse
-img: /assets/img/CSL.jpg
+img: /assets/img/cslmeeting2.jpg
 importance: 3
 category: Chinese Sign Language Linguistics
 ---
 
-This project was funded by China Disabled People’s Federation (CLS2019-04; chief investigator: [Xiaoyan XIAO](https://cflc.xmu.edu.cn/_s351/2019/0704/c12488a375058/page.psp). The primary objective was to build a parallel corpus of Chinese and CSL political discourse.  
+This project was funded by China Disabled People’s Federation (CLS2019-04; chief investigator: [Xiaoyan XIAO](https://cflc.xmu.edu.cn/_s351/2019/0704/c12488a375058/page.psp). The primary objective was to build a parallel corpus of Chinese and Chinese Sign Langauge (CSL) political discourse.  
 
 Stay tuned for project updates. 
 
