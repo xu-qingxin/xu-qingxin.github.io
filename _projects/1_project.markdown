@@ -23,4 +23,4 @@ This project was a linguistic investigation of how disputing spouses present the
     What are the similarities or differences in their attitudes and their framing of the attitudes? What can we know about the disputants' textually constructed identity vis-à-vis their preferences in the attitudes and their framing of the attitudes?
 </div>
 
-For more details about this project, see my recent or incoming [publications](/research/).
+For more details about this project, check my recent or upcoming [research outputs](/research/).
