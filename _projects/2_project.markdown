@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Argumentative disposition
-description: How disputing spouses negotiate their attitudes in family dispute resolutions?
+description: How did the disputing spouses negotiate their attitudes in family dispute resolutions?
 img: /assets/img/fightingkangaroo2.jpg
 importance: 2
 category: Language and identity
 ---
 
-This is an project in progress investigating how disputing spouses negotiated their attitudes in family dispute resolutions. What attitudes did they favoure disputing? How did they advance the disagreement? What potential impact did the disputants' choice have on the outcome of the mediation?
+This project is a work in progress investigating how disputing spouses negotiated their attitudes in family dispute resolutions. What attitudes did they favoure disputing? How did they advance the disagreement? What potential impact did the disputants' choice have on the outcome of the mediation?
 
 Stay tuned for more details of this project. 
 
