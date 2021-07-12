@@ -5,7 +5,8 @@ permalink: /_pages/
 
 ---
 
-**Journal articles**
+<p>**Journal articles**</p>
+
 Xu, Q., & Chen, J. (2020). Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions (数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例). *Journal of Tianjing Foreign Studies University*, 6, 24–38. https://doi.org/10.13140/RG.2.2.22634.34246
 
 **Book chapters**
