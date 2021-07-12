@@ -36,3 +36,12 @@ nav: true
 
 
 <p><h3>Fundings/awards</h3></p>
+
+- University International Postgraduate Award (University of New South Wales, 2017-2021)
+- Faculty Top-Up Scholarship (University of New South Wales, 2017-2021)
+- HDR Completion scholarship (University of New South Wales, 2021)
+- HDR Faculty Supported Research Funding (University of New South Wales, 2018, 2019)
+- Best Teacher of the Year (Confucius Institute at the University of Delaware, 2016, 2017)
+-	3rd Prize, 2014 Cambridge English Star Teacher Competition (British Council, 2014)
+-	Excellent Teacher Award (Xiamen University, 2014)
+-	My Top 10 Favorite Teachers Award (Xiamen University, 2013)
