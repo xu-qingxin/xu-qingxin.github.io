@@ -27,7 +27,7 @@ nav: true
 
 #### Conference/seminar presentations
 
-- 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, Univ. Sydney, Sydney.
+- 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, University of Sydney, Sydney, Australia.
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
 - 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
