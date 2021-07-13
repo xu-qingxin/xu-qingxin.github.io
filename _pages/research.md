@@ -28,12 +28,12 @@ nav: true
 #### Conference/seminar presentations
 
 - 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, Univ. Sydney, Sydney.
-- 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. Australian Linguistics Society Annual Conference 2019, Sydney, Australia.
-- 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. The 7th New Zealand Discourse Conference, Wellington, New Zealand.
-- 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. Australian Systemic Functional Linguistics Association Annual Conference 2019, Sydney, Australia.
-- 2019, July. *Colloquium: Issues in the conceptualisation and analysis of social identity and discursive persona*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile. (With Peter R.R. White and Alexanne Don)
-- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. The 46th International Systemic Functional Linguistics Congress, Santiago, Chile.
-- 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. Australian Systemic Functional Linguistics Association Annual Conference  2018, Adelaide, Australia.
+- 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
+- 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
+- 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
+- 2019, July. *Colloquium: Issues in the conceptualisation and analysis of social identity and discursive persona*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/). (With Peter R.R. White and Alexanne Don)
+- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/).
+- 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. [Australian Systemic Functional Linguistics Association Annual Conference  2018](https://asfla.net/asfla-conference/previous-conferences/), Adelaide, Australia.
 
 
 #### Fundings/awards
@@ -44,5 +44,5 @@ nav: true
 - HDR Faculty Supported Research Funding (University of New South Wales, 2018, 2019)
 - Best Teacher of the Year (Confucius Institute at the University of Delaware, 2016, 2017)
 -	3rd Prize, 2014 Cambridge English Star Teacher Competition (British Council, 2014)
--	Excellent Teacher Award (Xiamen University, 2014)
--	My Top 10 Favorite Teachers Award (Xiamen University, 2013)
+-	厦门大学2014年度奖教金 (Excellent Teacher Award) (Xiamen University, 2014)
+-	[厦门大学“我最喜爱的十位老师”](https://xcb.xmu.edu.cn/2013/0927/c529a6938/page.htm) (My Top 10 Favourite Teachers Award) (Xiamen University, 2013)
