@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### Journal articles
-- 2021\.‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. Journal of Research in Applied Linguistics, 12(2), 52–73. With Peter R.R. White[download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
+- 2021\.‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. Journal of Research in Applied Linguistics, 12(2), 52–73. With Peter R.R. White(https://www.ada.unsw.edu.au/our-people/peter-white) [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN) [download](/assets/pdf/datascience2020.pdf)
 - 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
 - 2007\. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*) [download](/assets/pdf/checker2007.pdf)
