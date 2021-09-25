@@ -23,7 +23,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Lecturer in English at the [College of Foreign Languages and Cultures, Xiamen University](https://cflc.xmu.edu.cn){:target="\_blank"} in China. In 2015-2017, I was a visiting scholar at the Confucius Institute at the University of Delaware, U.S.A. 
 
-I received my PhD from the School of the Arts and Media at the University of New South Wales in Sydney, Australia, supervised by [Dr Peter R.R. White](https://www.ada.unsw.edu.au/our-people/peter-white){:target="\_blank"}. My PhD project was about textual identity construction of disputing spouses in family dispute resolutions. I explored *who the disputants are* by reference to what attitudes they held and how they communicated these attitudes.
+I received my PhD from the School of the Arts and Media at the University of New South Wales in Sydney, Australia, in 2021 (supervised by [Dr Peter R.R. White](https://www.ada.unsw.edu.au/our-people/peter-white){:target="\_blank"}). My PhD project was about textual identity construction of disputing spouses in family dispute resolutions. I explored *who the disputants are* by reference to what attitudes they held and how they communicated these attitudes.
 
 
 
