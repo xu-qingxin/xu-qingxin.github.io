@@ -39,11 +39,7 @@ nav: true
 
 #### Grants & Fundings 
 
-- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) 
-  Grant #: FJ2022B050
-  Funding organisation: Fujian Federation of Social Sciences
-  Amount awarded: CNY 40,000
-  Period of Grant award: Oct. 2022 - Dec. 2024
+- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024)
 - Towards a Sign Language Translator/Interpreter Training Model (Co-investigator)
   Grant #: 19BYY105 (PI: Xiaoyan Xiao)
   Funding organisation: The National Social Science Fund of China
