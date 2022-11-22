@@ -6,4 +6,12 @@ description: Materials for courses I taught.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of my courses. More to come.
+- 大学英语（四）-- 有效沟通101 (College English 4: Effective Communication 101) (For XMU undergraduate students, ongoing)
+- 高级商务英语与沟通 Advanced Business English and Communication (For XMU EMBA center graduate students, ongoing)
+- College English 1-2 (For XMU art and music students, 2021-2022)
+- Topics in Professional Communication (For XMU Malaysia English majors, 2021 Fall)
+- British and American Thought and Culture (For XMU Malaysia English majors, 2021 Fall)
+- Intergrated Chinese (For University of Delaware undergraduate students, 2015-2017)
+- Intergrated Chinese I-III (For Osher Lifelong Learning Institute, 2016-2017)
+- Business English for Future Market Leaders (For XMU undergraduate students, 2013-2015)
+- Business Writing (For XMU undergraduate students, 2010-2012)
