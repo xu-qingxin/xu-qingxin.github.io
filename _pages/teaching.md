@@ -13,5 +13,5 @@ nav: true
 - British and American Thought and Culture (For XMU Malaysia English majors, 2021 Fall)
 - Intergrated Chinese (For University of Delaware undergraduate students, 2015-2017)
 - Intergrated Chinese I-III (For Osher Lifelong Learning Institute, 2016-2017)
-- Business English for Future Market Leaders (For XMU undergraduate students, 2013-2015)
-- Business Writing (For XMU undergraduate students, 2010-2012)
+- 体验商务英语 (Business English for Future Market Leaders) (For XMU undergraduate students, 2013-2015)
+- 商务英语写作 (Business Writing) (For XMU undergraduate students, 2010-2012)
