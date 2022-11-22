@@ -39,21 +39,21 @@ nav: true
 
 #### Grants & Fundings 
 
-- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024)
-- Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan Xiao) (Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022)
-- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan Xiao) (Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022)
-- University International Postgraduate Award (University of New South Wales, 2017-2021)
-- Faculty Top-Up Scholarship (University of New South Wales, 2017-2021)
-- HDR Completion scholarship (University of New South Wales, 2021)
-- HDR Faculty Supported Research Funding (University of New South Wales, 2018, 2019)
+- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024*)
+- Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan Xiao) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
+- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan Xiao) (*Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022*)
+- University International Postgraduate Award (*University of New South Wales, 2017-2021*)
+- Faculty Top-Up Scholarship (*University of New South Wales, 2017-2021*)
+- HDR Completion scholarship (*University of New South Wales, 2021*)
+- HDR Faculty Supported Research Funding (*University of New South Wales, 2018, 2019*)
 
 
 #### Awards
 
-- 福建省级高层次人才 (Accredited talent at the provincial level) (Department of Human Resources and Social Security of Fujian
-Province, 2022-2028)
-- 厦门市高层次留学人员 (Overseas talent at the municipal level) (Human Resources and Social Security Bureau of Xiamen Municipal Goverment, 2021-2026)
-- Best Teacher of the Year (Confucius Institute at the University of Delaware, 2016, 2017)
--	3rd Prize, 2014 Cambridge English Star Teacher Competition (British Council, 2014)
--	厦门大学2014年度奖教金 (Excellent Teacher Award) (Xiamen University, 2014)
--	[厦门大学“我最喜爱的十位老师”](https://xcb.xmu.edu.cn/2013/0927/c529a6938/page.htm) (My Top 10 Favourite Teachers Award) (Xiamen University, 2013)
+- 福建省级高层次人才 (Accredited talent at the provincial level) (*Department of Human Resources and Social Security of Fujian
+Province, 2022-2028*)
+- 厦门市高层次留学人员 (Overseas talent at the municipal level) (*Human Resources and Social Security Bureau of Xiamen Municipal Goverment, 2021-2026)
+- Best Teacher of the Year (Confucius Institute at the University of Delaware, 2016, 2017*)
+-	3rd Prize, 2014 Cambridge English Star Teacher Competition (*British Council, 2014*)
+-	厦门大学2014年度奖教金 (Excellent Teacher Award) (*Xiamen University, 2014*)
+-	[厦门大学“我最喜爱的十位老师”](https://xcb.xmu.edu.cn/2013/0927/c529a6938/page.htm) (My Top 10 Favourite Teachers Award) (*Xiamen University, 2013*)
