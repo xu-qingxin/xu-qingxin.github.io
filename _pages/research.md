@@ -41,11 +41,7 @@ nav: true
 
 - Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024)
 - Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan Xiao) (Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022)
-- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator)
-  Grant #: CLS2019-04 (PI: Xiaoyan Xiao)
-  Funding organisation: China Disabled People’s Federation
-  Amount awarded: CNY 60,000
-  Period of Grant award: May 2019 - June 2022
+- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan Xiao) (Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022)
 - University International Postgraduate Award (University of New South Wales, 2017-2021)
 - Faculty Top-Up Scholarship (University of New South Wales, 2017-2021)
 - HDR Completion scholarship (University of New South Wales, 2021)
