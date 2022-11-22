@@ -7,8 +7,8 @@ nav: true
 ---
 
 #### Journal articles
-- 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan Xiao [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
-- 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With [Peter R.R. White](https://www.ada.unsw.edu.au/our-people/peter-white) [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
+- 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
+- 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN) [download](/assets/pdf/datascience2020.pdf)
 - 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
 - 2007\. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*) [download](/assets/pdf/checker2007.pdf)
@@ -40,8 +40,8 @@ nav: true
 #### Grants & Fundings 
 
 - Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024*)
-- Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan Xiao) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
-- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan Xiao) (*Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022*)
+- Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan XIAO) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
+- Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan XIAO) (*Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022*)
 - University International Postgraduate Award (*University of New South Wales, 2017-2021*)
 - Faculty Top-Up Scholarship (*University of New South Wales, 2017-2021*)
 - HDR Completion scholarship (*University of New South Wales, 2021*)
