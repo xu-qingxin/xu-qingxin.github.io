@@ -7,7 +7,7 @@ nav: true
 ---
 
 #### Journal articles
-- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 0(0). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS)
+- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 0(0). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
 - 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN [download](/assets/pdf/datascience2020.pdf)
