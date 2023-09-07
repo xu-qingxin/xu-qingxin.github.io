@@ -20,6 +20,7 @@ nav: true
 - 2015\. *英语戏剧教材（上册）*. 厦门大学出版社. (*English Drama Course (I)*. Xiamen University Press. With Jiayang SONG and Xin GUAN.)
 - 2012\. *让宝宝着迷的美国宝宝创意玩法大全*. 现代出版社. (*365 Creative Games and Activities to Occupy Your 3 to 6 Year-old*. Modern Press. Trans. with Yanyan LI. )
 - 2010\. *英语应用文*. 对外经贸大学出版社. (*The Write Way – Practical English Writing*. University of International Business and Economics Press. With Huihui HUANG and Kun YANG.)
+- 2007\. *职业英语系列——物流英语*. 高等教育出版社. (*Vocational English: Logistics English* Higher Education Press. With Huihui HUANG.)
 
 
 #### Book chapters
