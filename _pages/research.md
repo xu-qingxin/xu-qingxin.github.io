@@ -15,16 +15,19 @@ nav: true
 - 2007\. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*) [download](/assets/pdf/checker2007.pdf)
 
 
-#### Books
+#### Co-authored/edited Books
 
 - 2015\. *英语戏剧教材（上册）*. 厦门大学出版社. (*English Drama Course (I)*. Xiamen University Press. With Jiayang SONG and Xin GUAN.)
 - 2012\. *让宝宝着迷的美国宝宝创意玩法大全*. 现代出版社. (*365 Creative Games and Activities to Occupy Your 3 to 6 Year-old*. Modern Press. Trans. with Yanyan LI. )
+- 2011\. *文化创意产业翻译*. 外文出版社. (*Translation of Culture and Creative Industries*. With Hefa LV and Jianbo ZHOU.)
 - 2010\. *英语应用文*. 对外经贸大学出版社. (*The Write Way – Practical English Writing*. University of International Business and Economics Press. With Huihui HUANG and Kun YANG.)
+- 2007\. *职业英语系列——物流英语*. 高等教育出版社. (*Vocational English: Logistics English* Higher Education Press. With Huihui HUANG.)
 
 
 #### Book chapters
 
-- 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.) 
+- 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.)
+- 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
 #### Conference/seminar presentations
