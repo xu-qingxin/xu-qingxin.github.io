@@ -7,7 +7,7 @@ nav: true
 ---
 
 - 大学英语（四）-- 有效沟通101 (College English 4: Effective Communication 101) (*For XMU undergraduate students, ongoing*)
-- 高级商务英语与沟通 Advanced Business English and Communication (*For XMU EMBA center graduate students, ongoing*)
+- 高级商务英语与沟通 Advanced Business English and Communication (*For XMU EMBA Center graduate students, ongoing*)
 - College English 1-2 (*For XMU art and music students, 2021-2022*)
 - Topics in Professional Communication (*For XMU Malaysia English majors, 2021 Fall*)
 - British and American Thought and Culture (*For XMU Malaysia English majors, 2021 Fall*)
