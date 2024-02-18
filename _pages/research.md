@@ -26,7 +26,8 @@ nav: true
 
 #### Book chapters
 
-- 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.) 
+- 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.)
+- 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
 #### Conference/seminar presentations
