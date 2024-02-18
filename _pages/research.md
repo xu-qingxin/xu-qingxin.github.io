@@ -30,8 +30,11 @@ nav: true
 - 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
-#### Conference/seminar presentations
+#### Conference/seminar Presentations/ Invited talks
 
+- 2023, November. *当评价理论遇到R——基于数字人文方法的话语分析*. 系统功能语言学与认知语言学互鉴、融合与创新, 对外经济贸易大学, Beijing, China.
+- 2023, Noverber. *Deaf Translator’s Dialogic Positioning in Chinese Sign Language Translation*. [Australian Systemic Functional Linguistics Association Annual Conference 2023](https://www.asfla2023.net/), Wollongong, Australia.
+- 2023, November. *生成式人工智能模型能否取代学术英语课程(EAP)中的真人教师？——评价资源视角*. 第十八届功能语言学学术研讨会, 中山大学, Zhuhai, China.
 - 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, University of Sydney, Sydney, Australia.
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
