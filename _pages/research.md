@@ -7,6 +7,7 @@ nav: true
 ---
 
 #### Journal articles
+- 2024\. Ambient identity construction via massive anonymous *danmu* comments. *Language Sciences*, 104(101631), 1-16. With Yi JING [download]
 - 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 0(0). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
 - 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
