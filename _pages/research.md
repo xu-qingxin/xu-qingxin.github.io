@@ -7,6 +7,8 @@ nav: true
 ---
 
 #### Journal articles
+
+- 2024\. Identifying disputants’ attitudinal variations in family mediations: A data mining approach. *Discourse Studies*, 26(5), [14614456241237378](https://journals.sagepub.com/doi/10.1177/14614456241237378).
 - 2024\. Ambient identity construction via massive anonymous *danmu* comments. *Language Sciences*, 104(101631), 1-16. With Yi JING [download](/assets/pdf/XuJing2024DanmuLS.pdf)
 - 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
@@ -33,6 +35,7 @@ nav: true
 
 #### Conference/seminar Presentations/ Invited talks
 
+- 2024, July. *Can Generative AI models replace human teachers in English for Academic Purposes (EAP)?: An Appraisal perspective* [The 49th Systemic Functional Linguistics Association Annual conference2024](https://www.unsw.edu.au/arts-design-architecture/whats-on/events/49th-international-systemic-functional-congress), Sydney, Australia. 
 - 2023, November. *当评价理论遇到R——基于数字人文方法的话语分析*. 系统功能语言学与认知语言学互鉴、融合与创新, 对外经济贸易大学, Beijing, China.
 - 2023, Noverber. *Deaf Translator’s Dialogic Positioning in Chinese Sign Language Translation*. [Australian Systemic Functional Linguistics Association Annual Conference 2023](https://www.asfla2023.net/), Wollongong, Australia.
 - 2023, November. *生成式人工智能模型能否取代学术英语课程(EAP)中的真人教师？——评价资源视角*. 第十八届功能语言学学术研讨会, 中山大学, Zhuhai, China.
@@ -49,7 +52,8 @@ nav: true
 
 #### Grants & Fundings 
 
-- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Dec. 2024*)
+- XMU Course Ideological and Political Education Research Project (*Grant# JG20230808; Xiamen University; CNY7,000; Jan.2024-Dec. 2024*)
+- Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Sept. 2025*)
 - Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan XIAO) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
 - Chinese Sign Language translation corpus for Chinese president's key speeches (Co-investigator; PI: Xiaoyan XIAO) (*Grant# CLS2019-04; China Disabled People’s Federation; CNY60,000; May 2019 - June 2022*)
 - University International Postgraduate Award (*University of New South Wales, 2017-2021*)
