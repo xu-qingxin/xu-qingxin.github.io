@@ -3,7 +3,7 @@ layout: page
 title: Sign language translation
 description: CSL/Chinese translation and political discourse
 img: /assets/img/cslmeeting2.jpg
-importance: 4
+importance: 1
 category: Chinese Sign Language Linguistics
 ---
 
