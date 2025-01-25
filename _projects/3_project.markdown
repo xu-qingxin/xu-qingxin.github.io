@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ambient identity construction via *Danmu*
-description: linguistic mechanisms for anonymous video viewers to craft the self
+description: Linguistic mechanisms for anonymous video viewers to craft the self
 img: /assets/img/identity_network.jpg
 importance: 3
 category: Language and identity
@@ -19,7 +19,7 @@ This project contributes to the scholarship on digital identity work by examinin
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    *Who are you when leaving anonymous online?*
 </div>
 
 
