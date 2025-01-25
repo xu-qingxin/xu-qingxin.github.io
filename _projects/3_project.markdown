@@ -19,7 +19,7 @@ This project contributes to the scholarship on digital identity work by examinin
     </div>
 </div>
 <div class="caption">
-    *Who are you when leaving anonymous online?*
+    *Who are you when leaving anonymous comments online?*
 </div>
 
 
