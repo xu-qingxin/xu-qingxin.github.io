@@ -14,7 +14,6 @@ nav: true
 - 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4), 753-768. With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN [download](/assets/pdf/datascience2020.pdf)
-- 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
 - 2007\. 词汇语法拼写校对软件——功能语法的应用实例. *天津外国语大学学报*, 14(2), 49–54.(A lexicogorammar-based spelling checker: Application of Functional Grammar. *Journal of Tianjing Foreign Studies University*) [download](/assets/pdf/checker2007.pdf)
 
 
@@ -31,6 +30,7 @@ nav: true
 
 - 2024\. 基于话语观的公共外语课程思政教学模式建构及实践研究. In *高等教育教学实践探索:厦门大学解决方案* (pp. 94-105). 厦门大学出版社. (A Model for Ideological and Political Education in College Foreign Language Courses: A Discourse Perspective. In *Exploring Teaching Practices in Higher Education: Xiamen University Solution* Xiamen University Press.)
 - 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.)
+- 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
 - 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
