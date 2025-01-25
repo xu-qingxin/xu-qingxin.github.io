@@ -2,16 +2,16 @@
 layout: page
 title: research
 permalink: /research/
-description: Selected publications, conference/seminar presentations, and the fundings/awards received.
+description: Selected publications, conference/seminar presentations, and the funding/awards received.
 nav: true
 ---
 
 #### Journal articles
 
-- 2024\. Identifying disputants’ attitudinal variations in family mediations: A data mining approach. *Discourse Studies*, 26(5), [14614456241237378](https://journals.sagepub.com/doi/10.1177/14614456241237378).
+- 2024\. Identifying disputants’ attitudinal variations in family mediations: A data mining approach. *Discourse Studies*, 26(5), 693-719.[14614456241237378](https://journals.sagepub.com/doi/10.1177/14614456241237378).
 - 2024\. Ambient identity construction via massive anonymous *danmu* comments. *Language Sciences*, 104(101631), 1-16. With Yi JING [download](/assets/pdf/XuJing2024DanmuLS.pdf)
-- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
-- 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
+- 2024\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 32(2), 242-260. With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)-
+- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4), 753-768. With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN [download](/assets/pdf/datascience2020.pdf)
 - 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
@@ -29,12 +29,14 @@ nav: true
 
 #### Book chapters
 
+- 2024\. 基于话语观的公共外语课程思政教学模式建构及实践研究. In *高等教育教学实践探索:厦门大学解决方案* (pp. 94-105). 厦门大学出版社. (A Model for Ideological and Political Education in College Foreign Language Courses: A Discourse Perspective. In *Exploring Teaching Practices in Higher Education: Xiamen University Solution* Xiamen University Press.)
 - 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.)
 - 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
 #### Conference/seminar Presentations/ Invited talks
 
+- 2024, November. *The Appraisal framework and its applications in discourse analysis*. Hong Kong Metropolitan University, Hong Kong, China.
 - 2024, July. *Can Generative AI models replace human teachers in English for Academic Purposes (EAP)?: An Appraisal perspective* [The 49th Systemic Functional Linguistics Association Annual conference2024](https://www.unsw.edu.au/arts-design-architecture/whats-on/events/49th-international-systemic-functional-congress), Sydney, Australia. 
 - 2023, November. *当评价理论遇到R——基于数字人文方法的话语分析*. 系统功能语言学与认知语言学互鉴、融合与创新, 对外经济贸易大学, Beijing, China.
 - 2023, Noverber. *Deaf Translator’s Dialogic Positioning in Chinese Sign Language Translation*. [Australian Systemic Functional Linguistics Association Annual Conference 2023](https://www.asfla2023.net/), Wollongong, Australia.
@@ -44,14 +46,16 @@ nav: true
 - 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, University of Sydney, Sydney, Australia.
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
-- 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
+- 2019, October. *The presentation of self via evaluative meaning-making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
 - 2019, July. *Colloquium: Issues in the conceptualisation and analysis of social identity and discursive persona*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/). (With Peter R.R. White and Alexanne Don)
-- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/).
+- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning-making*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/).
 - 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. [Australian Systemic Functional Linguistics Association Annual Conference  2018](https://asfla.net/asfla-conference/previous-conferences/), Adelaide, Australia.
 
 
 #### Grants & Fundings 
 
+- XMU AI-enabled Curriculum Education Reform Projects (*Xiamen University; CNY10,000; Dec. 2024-Dec. 2025*)
+- XMU Education Reform Research Project (Specialized Research on Teaching Materials): Research on the Structural Shortage of College English Reasoning Teaching Materials and Strategies to Fill Them with Original Resources (*Grant# JG20240901; Xiamen University; Oct. 2024 -Oct. 2027*)
 - XMU Course Ideological and Political Education Research Project (*Grant# JG20230808; Xiamen University; CNY7,000; Jan.2024-Dec. 2024*)
 - Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Sept. 2025*)
 - Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan XIAO) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
