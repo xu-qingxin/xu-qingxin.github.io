@@ -29,12 +29,14 @@ nav: true
 
 #### Book chapters
 
+- 2024\. 基于话语观的公共外语课程思政教学模式建构及实践研究. In *高等教育教学实践探索:厦门大学解决方案* (pp. 94-105). 厦门大学出版社. (A Model for Ideological and Political Education in College Foreign Language Courses: A Discourse Perspective. In *Exploring Teaching Practices in Higher Education: Xiamen University Solution* Xiamen University Press.)
 - 2019\. 基于美国初级阶段汉语学习者中介语的评价性语言研究. In 江桂英 (Ed.), *公共外语教学与研究* (pp. 221–232). 厦门大学出版社. (Language of evaluation in interlanguage: Evidence from writings by beginning learns of Chinese in the US. In Jiang G. (Ed.) *Foreign Languages Teaching and Research*. Xiamen University Press.)
 - 2007\. 从大学英语教学向双语教学过渡. In 詹树魁、李美华(Ed.),*大学英语教学论文集* (pp.73-81). 厦门大学出版社. (Transitting from College English Teaching to Bilingual Education. In Zhan S. & Li M. (Ed.) *Collective Papers in College English Education*. Xiamen University Press.)
 
 
 #### Conference/seminar Presentations/ Invited talks
 
+- 2024, November. *The Appraisal framework and its applications in discourse analysis*. Hong Kong Metropolitan University, Hong Kong, China.
 - 2024, July. *Can Generative AI models replace human teachers in English for Academic Purposes (EAP)?: An Appraisal perspective* [The 49th Systemic Functional Linguistics Association Annual conference2024](https://www.unsw.edu.au/arts-design-architecture/whats-on/events/49th-international-systemic-functional-congress), Sydney, Australia. 
 - 2023, November. *当评价理论遇到R——基于数字人文方法的话语分析*. 系统功能语言学与认知语言学互鉴、融合与创新, 对外经济贸易大学, Beijing, China.
 - 2023, Noverber. *Deaf Translator’s Dialogic Positioning in Chinese Sign Language Translation*. [Australian Systemic Functional Linguistics Association Annual Conference 2023](https://www.asfla2023.net/), Wollongong, Australia.
@@ -44,9 +46,9 @@ nav: true
 - 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, University of Sydney, Sydney, Australia.
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
-- 2019, October. *The presentation of self via evaluative meaning making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
+- 2019, October. *The presentation of self via evaluative meaning-making in family dispute mediations*. [Australian Systemic Functional Linguistics Association Annual Conference 2019](https://asfla.net/asfla-conference/previous-conferences/), Sydney, Australia.
 - 2019, July. *Colloquium: Issues in the conceptualisation and analysis of social identity and discursive persona*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/). (With Peter R.R. White and Alexanne Don)
-- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning making*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/).
+- 2019, July. *Parameters of variation: The presentation of self via evaluative meaning-making*. [The 46th International Systemic Functional Linguistics Congress, Santiago, Chile](http://letras.uc.cl/letras/isfc2019santiagochile/en/).
 - 2018, September. *Are They Talking Past Each Other?”– Axiological Cosmology Analysis of Conflict Talk in Mandarin Reality TV Show*. [Australian Systemic Functional Linguistics Association Annual Conference  2018](https://asfla.net/asfla-conference/previous-conferences/), Adelaide, Australia.
 
 
