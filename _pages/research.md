@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Selected publications, conference/seminar presentations, and the fundings/awards received.
+description: Selected publications, conference/seminar presentations, and the funding/awards received.
 nav: true
 ---
 
