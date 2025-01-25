@@ -41,8 +41,7 @@ nav: true
 - 2023, November. *当评价理论遇到R——基于数字人文方法的话语分析*. 系统功能语言学与认知语言学互鉴、融合与创新, 对外经济贸易大学, Beijing, China.
 - 2023, Noverber. *Deaf Translator’s Dialogic Positioning in Chinese Sign Language Translation*. [Australian Systemic Functional Linguistics Association Annual Conference 2023](https://www.asfla2023.net/), Wollongong, Australia.
 - 2023, November. *生成式人工智能模型能否取代学术英语课程(EAP)中的真人教师？——评价资源视角*. 第十八届功能语言学学术研讨会, 中山大学, Zhuhai, China.
-- 2021, December. *态度与话语身份：婚姻调解对话中冲突双方的自我呈现*. 外文学院青年学者沙龙第十四期, 厦门大学, Xiamen, China.
-- 2022, December. *语言学研究中的数据结构化——以基于中国自然手语的研究为例*. 第十五届研究生学术研讨会, 厦门大学, Xiamen, China.
+- 2022, December. *语言学研究中的数据结构化——以基于中国自然手语的研究为例*. 第十五届研究生学术研讨会, 厦门大学, Xiamen, China.- 2021, December. *态度与话语身份：婚姻调解对话中冲突双方的自我呈现*. 外文学院青年学者沙龙第十四期, 厦门大学, Xiamen, China.
 - 2021, June. *Variability in the spouses’ construal of attitudinal disposition in family dispute resolutions*. SFL Friday seminar, University of Sydney, Sydney, Australia.
 - 2019, December. *Semantic variation in evaluative meaning making: Evaluative style in family dispute resolution reality TV shows*. [Australian Linguistics Society Annual Conference 2019](https://als.asn.au/Conference/Conference2019/Conference2019), Sydney, Australia.
 - 2019, December. *The presentation of self via evaluative language: Evaluative styles in family dispute resolution reality TV programs*. [The 7th New Zealand Discourse Conference](https://www.massey.ac.nz/massey/about-massey/events/event-detail.cfm?event_id=428D493A-695B-4519-BE09-01D169BA72D0), Wellington, New Zealand.
@@ -54,6 +53,8 @@ nav: true
 
 #### Grants & Fundings 
 
+- XMU AI-enabled Curriculum Education Reform Projects (*Xiamen University; CNY10,000; Dec. 2024-Dec. 2025*)
+- XMU Education Reform Research Project (Specialized Research on Teaching Materials): Research on the Structural Shortage of College English Reasoning Teaching Materials and Strategies to Fill Them with Original Resources (*Grant# JG20240901; Xiamen University; Oct. 2024 -Oct. 2027*)
 - XMU Course Ideological and Political Education Research Project (*Grant# JG20230808; Xiamen University; CNY7,000; Jan.2024-Dec. 2024*)
 - Fujian Deaf translator's discursive identity construction: A data mining approach (Principal investigator) (*Grant# FJ2022B050; Fujian Federation of Social Sciences; CNY40,000; Oct. 2022 - Sept. 2025*)
 - Towards a Sign Language Translator/Interpreter Training Model (Co-investigator; PI: Xiaoyan XIAO) (*Grant# 19BYY105; The National Social Science Fund of China; CNY200,000; July 2019 - Aug. 2022*)
