@@ -7,7 +7,7 @@ importance: 1
 category: Language and identity
 ---
 
-This project was a linguistic investigation of how disputing spouses present themselves via their use of evaluative language in family dispute resolutions. The study took a dramaturgical view of the discursive presentation of the ‘self’ and drew on insights provided by the Appraisal framework. In order to group the spouses with respect to similarities and differences in their use of these resources, computational multivariate analysis tools were employed.
+This project was a linguistic investigation of how disputing spouses present themselves through their use of evaluative language in family dispute resolutions. The study took a dramaturgical view of the discursive presentation of the ‘self’ and drew on insights provided by the Appraisal framework. Computational multivariate analysis tools were employed to group the spouses according to similarities and differences in their use of these resources.
 
 
 <div class="row">
