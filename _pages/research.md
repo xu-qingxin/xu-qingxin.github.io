@@ -8,10 +8,10 @@ nav: true
 
 #### Journal articles
 
-- 2024\. Identifying disputants’ attitudinal variations in family mediations: A data mining approach. *Discourse Studies*, 26(5), [14614456241237378](https://journals.sagepub.com/doi/10.1177/14614456241237378).
+- 2024\. Identifying disputants’ attitudinal variations in family mediations: A data mining approach. *Discourse Studies*, 26(5), 693-719. (https://journals.sagepub.com/doi/10.1177/14614456241237378).
 - 2024\. Ambient identity construction via massive anonymous *danmu* comments. *Language Sciences*, 104(101631), 1-16. With Yi JING [download](/assets/pdf/XuJing2024DanmuLS.pdf)
-- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4). With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
-- 2022\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 0(0). With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
+- 2024\. Deaf translator’s visibility in political discourse: a dialogic positioning perspective. *Perspectives: Studies in Translation Theory and Practice*, 32(2), 242-260. With Xiaoyan XIAO [download](https://www.tandfonline.com/doi/full/10.1080/0907676X.2022.2130080)
+- 2023\. Danmu video as the resemiotised: An attitudinal analysis of *Home Visit*. *Media, Culture & Society*, 45(4), 753-768. With Yi JING [download](/assets/pdf/JingXu2023DanmuMCS.pdf)
 - 2021\. ‘My husband always crosses the line’: Textual identity and presentation of ‘the self’ in family conflict communication. *Journal of Research in Applied Linguistics*, 12(2), 52–73. With Peter R.R. White [download](https://www.researchgate.net/publication/354617280_'My_Husband_Always_Crosses_the_Line'_Textual_Identity_and_Presentation_of_'the_Self'_in_Family_Conflict_Communication)
 - 2020\. 数据科学视角下的评价话语分析：以冲突话语中会话者评价风格识别为例. *天津外国语大学学报*, 27(6), 24–38. (Appraisal-based discourse analysis through the lens of Data Science: Identifying evaluative styles in adversarial interactions. *Journal of Tianjing Foreign Studies University*. With Juqiang CHEN [download](/assets/pdf/datascience2020.pdf)
 - 2013\. “情景模拟”在商务英语教学中的应用. *《厦门大学学报》外语及教学研究专辑*, 12, 108–120. (Teaching Business English to Pre-Experienced Undergraduates with Simulation. *Journal of Xiamen University (Special Issue: Foreign Languages Teaching and Research)*)
