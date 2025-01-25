@@ -9,7 +9,7 @@ category: Language and identity
 
 This project is a work in progress that investigates how disputing spouses negotiate their attitudes in family dispute resolutions. What attitudes did they favor when disputing? How did they advance the disagreement? What potential impact did the disputants' choices have on the outcome of the mediation?
 
-For more details about this project, check my recent research outputs. 
+For more details about this project, check my recent [research outputs](/research/). 
 
 
 <div class="row">
