@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ambient identity construction via *Danmu*
+title: Ambient digital identity construction
 description: Linguistic mechanisms for anonymous video viewers to craft the self
 img: /assets/img/identity_network.jpg
 importance: 3
